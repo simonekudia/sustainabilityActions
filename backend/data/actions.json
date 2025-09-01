@@ -1,0 +1,10 @@
+{
+  "actions": [
+    {
+      "id": 1,
+      "action": "recycling",
+      "date": "2025-09-01",
+      "points": 50
+    }
+  ]
+}
